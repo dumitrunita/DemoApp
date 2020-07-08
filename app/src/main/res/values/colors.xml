@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="bgcolor">#EA1414</color>
+    <color name="scris_alb">#ffffff</color>
+    <color name="culoare_btn">#4A4983</color>
+    <color name="culoare_btn_reg">#f96d6d</color>
+</resources>
